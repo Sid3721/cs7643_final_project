@@ -1,1 +1,1 @@
-# cs7643_final_project
+## To run, just use one of the batch files provided.
